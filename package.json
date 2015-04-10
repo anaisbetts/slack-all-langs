@@ -1,0 +1,25 @@
+{
+  "name": "slack-all-langs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "do-it.js",
+  "dependencies": {
+    "lodash": "^3.6.0",
+    "request": "^2.55.0",
+    "rx": "^2.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paulcbetts/slack-all-langs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulcbetts/slack-all-langs/issues"
+  },
+  "homepage": "https://github.com/paulcbetts/slack-all-langs"
+}
